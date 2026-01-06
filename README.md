@@ -1,85 +1,85 @@
-Smart Home Energy Advisor (Frontend)
+# Smart Home Energy Advisor (Frontend)
 
-A React-based web dashboard for visualizing household energy consumption, cost trends, device-wise analysis, and smart energy insights.
+A React-based web dashboard for analyzing and visualizing household energy consumption and usage patterns.
 
-This application serves as the frontend interface for the Smart Home Energy Advisor system, providing users with interactive charts, reports, and a clean UI to understand and optimize energy usage.
+---
 
-📌 Project Overview
+## 🔹 Project Overview
 
-The Smart Home Energy Advisor frontend allows users to:
+- Web-based dashboard for smart home energy analysis
+- Helps users understand electricity consumption patterns
+- Shows usage trends, comparisons, and insights visually
+- Designed as the frontend of the Smart Home Energy Advisor system
+- Can work with static data or backend API
 
-View energy usage dashboards
+---
 
-Analyze daily, weekly, and monthly consumption
+## 🔹 Key Features
 
-Visualize device-wise and room-wise energy usage
+- Interactive energy usage dashboards
+- Daily, weekly, and monthly consumption views
+- Device-wise and category-wise comparison
+- Cost and usage trend charts
+- Clean and responsive UI
+- Modular and reusable React components
+- Easy to extend with backend integration
 
-See cost trends and high consumption alerts
+---
 
-View smart recommendations
+## 🔹 Tech Stack
 
-Interact with a modern, responsive UI built using React
+- React.js (Create React App)
+- JavaScript (ES6)
+- HTML5 & CSS3
+- Chart / Visualization libraries
 
-This frontend is designed to work with a Python/AI backend (or can be used with static/demo data).
+---
 
-✨ Features
+## 🔹 Folder Structure
+Smart-Home-Energy-Advisor/
+│
+├── public/
 
-Interactive dashboards
 
-Energy usage visualization
+├── src/
 
-Cost trend charts
 
-Device-wise comparison
+│ ├── assets/
 
-Smart recommendations UI
 
-Report and insights pages
+│ ├── components/
 
-Clean and responsive UI
 
-Modular React components
+│ ├── App.js
 
-+<img width="632" height="460" alt="image" src="https://github.com/user-attachments/assets/a7bebf9f-665f-43ff-888b-f0b7d845459d" />
+│ ├── index.js
 
-🛠️ Tech Stack
+│ └── styles
+│
+├── package.json
 
-React.js (Create React App)
 
-JavaScript
+└── README.md
 
-HTML5, CSS3
 
-Chart / Visualization Libraries (if used)
+Purpose of This Project
 
-🚀 How to Run the Project
-1️⃣ Install dependencies
-npm install
+To visualize energy consumption data in a user-friendly way
 
-2️⃣ Start development server
-npm start
+To help users identify high energy usage
 
-3️⃣ Open in browser
-http://localhost:3000
+To support smart decision-making for energy saving
 
-🎯 Purpose of This Project
+To serve as frontend interface for Smart Home Energy Advisor system
 
-Provide a user-friendly interface for energy data visualization
-
-Help users understand consumption patterns
-
-Support smart decision-making for energy saving
-
-Act as the frontend module of the Smart Home Energy Advisor system
-
-🔮 Future Improvements
+🔹 Future Enhancements
 
 Backend API integration
 
-Real-time data from smart meters
+Real-time smart meter data support
 
-Authentication & user profiles
+User login and profiles
 
 Downloadable reports
 
-More advanced analytics views
+More advanced analytics dashboards
