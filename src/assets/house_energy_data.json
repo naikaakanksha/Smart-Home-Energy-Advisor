@@ -1,0 +1,1550 @@
+[
+  {
+    "HomeID": 112,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 4.06,
+        "Time": "16:10",
+        "Date": "2023-04-28",
+        "OutdoorTemperature(\u00b0C)": 21.6,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 1.28,
+        "Time": "11:52",
+        "Date": "2023-03-03",
+        "OutdoorTemperature(\u00b0C)": 4.7,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 2.08,
+        "Time": "20:33",
+        "Date": "2023-06-28",
+        "OutdoorTemperature(\u00b0C)": 4.6,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 2.19,
+        "Time": "15:59",
+        "Date": "2023-03-07",
+        "OutdoorTemperature(\u00b0C)": 9.7,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 4.07,
+        "Time": "18:53",
+        "Date": "2023-08-22",
+        "OutdoorTemperature(\u00b0C)": 25.9,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 2.89,
+        "Time": "23:09",
+        "Date": "2023-11-16",
+        "OutdoorTemperature(\u00b0C)": -7.1,
+        "Season": "Winter"
+      }
+    ]
+  },
+  {
+    "HomeID": 346,
+    "HouseholdSize": 4,
+    "Records": [
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 1.88,
+        "Time": "13:54",
+        "Date": "2023-12-16",
+        "OutdoorTemperature(\u00b0C)": 19.8,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 2.5,
+        "Time": "15:29",
+        "Date": "2023-12-03",
+        "OutdoorTemperature(\u00b0C)": 6.4,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 2.67,
+        "Time": "15:48",
+        "Date": "2023-10-04",
+        "OutdoorTemperature(\u00b0C)": 25.2,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.73,
+        "Time": "04:51",
+        "Date": "2023-02-09",
+        "OutdoorTemperature(\u00b0C)": 33.1,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 3.64,
+        "Time": "22:21",
+        "Date": "2023-01-22",
+        "OutdoorTemperature(\u00b0C)": 17.4,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 1.18,
+        "Time": "05:27",
+        "Date": "2023-04-06",
+        "OutdoorTemperature(\u00b0C)": 17.3,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 18,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 1.87,
+        "Time": "13:59",
+        "Date": "2023-10-07",
+        "OutdoorTemperature(\u00b0C)": 8.8,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 0.21,
+        "Time": "09:19",
+        "Date": "2023-09-02",
+        "OutdoorTemperature(\u00b0C)": -1.2,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 0.64,
+        "Time": "07:07",
+        "Date": "2023-04-04",
+        "OutdoorTemperature(\u00b0C)": 0.2,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 3.91,
+        "Time": "04:06",
+        "Date": "2023-05-03",
+        "OutdoorTemperature(\u00b0C)": 3.4,
+        "Season": "Winter"
+      }
+    ]
+  },
+  {
+    "HomeID": 264,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 3.55,
+        "Time": "10:47",
+        "Date": "2023-11-27",
+        "OutdoorTemperature(\u00b0C)": 8.3,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 4.32,
+        "Time": "04:35",
+        "Date": "2023-02-21",
+        "OutdoorTemperature(\u00b0C)": 25.4,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 5.0,
+        "Time": "17:08",
+        "Date": "2023-05-18",
+        "OutdoorTemperature(\u00b0C)": 17.2,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 3.86,
+        "Time": "08:56",
+        "Date": "2023-05-11",
+        "OutdoorTemperature(\u00b0C)": 12.7,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 56,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 0.95,
+        "Time": "02:23",
+        "Date": "2023-08-27",
+        "OutdoorTemperature(\u00b0C)": 8.6,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 0.39,
+        "Time": "19:17",
+        "Date": "2023-02-28",
+        "OutdoorTemperature(\u00b0C)": 5.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 4.98,
+        "Time": "18:47",
+        "Date": "2023-01-30",
+        "OutdoorTemperature(\u00b0C)": 25.3,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 0.55,
+        "Time": "06:57",
+        "Date": "2023-04-25",
+        "OutdoorTemperature(\u00b0C)": 1.2,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 0.64,
+        "Time": "00:12",
+        "Date": "2023-01-21",
+        "OutdoorTemperature(\u00b0C)": 26.5,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 290,
+    "HouseholdSize": 4,
+    "Records": [
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 0.91,
+        "Time": "19:20",
+        "Date": "2023-10-08",
+        "OutdoorTemperature(\u00b0C)": 34.6,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 0.44,
+        "Time": "02:05",
+        "Date": "2023-01-05",
+        "OutdoorTemperature(\u00b0C)": 20.6,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 1.35,
+        "Time": "07:04",
+        "Date": "2023-03-10",
+        "OutdoorTemperature(\u00b0C)": 15.4,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 3.03,
+        "Time": "17:46",
+        "Date": "2023-11-22",
+        "OutdoorTemperature(\u00b0C)": 7.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.96,
+        "Time": "09:18",
+        "Date": "2023-07-26",
+        "OutdoorTemperature(\u00b0C)": 19.2,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 3.21,
+        "Time": "01:01",
+        "Date": "2023-09-03",
+        "OutdoorTemperature(\u00b0C)": 14.6,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 4.98,
+        "Time": "04:36",
+        "Date": "2023-07-26",
+        "OutdoorTemperature(\u00b0C)": 28.9,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 125,
+    "HouseholdSize": 4,
+    "Records": [
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 2.49,
+        "Time": "11:32",
+        "Date": "2023-10-30",
+        "OutdoorTemperature(\u00b0C)": 8.4,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 2.23,
+        "Time": "21:06",
+        "Date": "2023-06-29",
+        "OutdoorTemperature(\u00b0C)": 23.6,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 3.48,
+        "Time": "13:23",
+        "Date": "2023-01-23",
+        "OutdoorTemperature(\u00b0C)": 18.5,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 0.62,
+        "Time": "08:28",
+        "Date": "2023-08-16",
+        "OutdoorTemperature(\u00b0C)": 0.4,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 4.62,
+        "Time": "20:25",
+        "Date": "2023-09-29",
+        "OutdoorTemperature(\u00b0C)": 5.3,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 3.5,
+        "Time": "00:17",
+        "Date": "2023-11-07",
+        "OutdoorTemperature(\u00b0C)": 24.1,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 1.43,
+        "Time": "08:48",
+        "Date": "2023-04-01",
+        "OutdoorTemperature(\u00b0C)": 29.3,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 487,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 4.7,
+        "Time": "20:37",
+        "Date": "2023-12-29",
+        "OutdoorTemperature(\u00b0C)": 35.4,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 4.66,
+        "Time": "12:43",
+        "Date": "2023-12-24",
+        "OutdoorTemperature(\u00b0C)": 4.0,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.12,
+        "Time": "04:53",
+        "Date": "2023-07-26",
+        "OutdoorTemperature(\u00b0C)": 9.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 0.82,
+        "Time": "09:56",
+        "Date": "2023-01-15",
+        "OutdoorTemperature(\u00b0C)": 6.2,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 2.44,
+        "Time": "00:07",
+        "Date": "2023-05-26",
+        "OutdoorTemperature(\u00b0C)": 8.9,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 3.83,
+        "Time": "22:07",
+        "Date": "2023-06-07",
+        "OutdoorTemperature(\u00b0C)": -2.8,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 3.48,
+        "Time": "11:52",
+        "Date": "2023-10-05",
+        "OutdoorTemperature(\u00b0C)": 10.3,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 322,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 0.85,
+        "Time": "06:44",
+        "Date": "2023-07-23",
+        "OutdoorTemperature(\u00b0C)": -5.0,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 2.83,
+        "Time": "05:16",
+        "Date": "2023-10-05",
+        "OutdoorTemperature(\u00b0C)": 7.2,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 0.96,
+        "Time": "06:18",
+        "Date": "2023-09-27",
+        "OutdoorTemperature(\u00b0C)": 17.1,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 2.95,
+        "Time": "00:54",
+        "Date": "2023-05-31",
+        "OutdoorTemperature(\u00b0C)": 21.9,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 2.17,
+        "Time": "10:37",
+        "Date": "2023-01-26",
+        "OutdoorTemperature(\u00b0C)": 2.0,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 1.98,
+        "Time": "12:46",
+        "Date": "2023-04-28",
+        "OutdoorTemperature(\u00b0C)": 18.0,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 131,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.02,
+        "Time": "04:06",
+        "Date": "2023-05-14",
+        "OutdoorTemperature(\u00b0C)": 20.2,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 0.51,
+        "Time": "11:31",
+        "Date": "2023-09-07",
+        "OutdoorTemperature(\u00b0C)": 29.7,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 4.2,
+        "Time": "07:07",
+        "Date": "2023-06-30",
+        "OutdoorTemperature(\u00b0C)": 23.2,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 0.46,
+        "Time": "22:20",
+        "Date": "2023-02-01",
+        "OutdoorTemperature(\u00b0C)": 38.5,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 305,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 0.31,
+        "Time": "11:25",
+        "Date": "2023-03-28",
+        "OutdoorTemperature(\u00b0C)": 33.4,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 1.58,
+        "Time": "19:57",
+        "Date": "2023-09-21",
+        "OutdoorTemperature(\u00b0C)": -2.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.17,
+        "Time": "08:50",
+        "Date": "2023-04-10",
+        "OutdoorTemperature(\u00b0C)": 6.8,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 0.35,
+        "Time": "07:19",
+        "Date": "2023-12-05",
+        "OutdoorTemperature(\u00b0C)": 4.7,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 0.99,
+        "Time": "01:35",
+        "Date": "2023-05-13",
+        "OutdoorTemperature(\u00b0C)": 3.6,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 0.37,
+        "Time": "01:18",
+        "Date": "2023-03-21",
+        "OutdoorTemperature(\u00b0C)": 3.8,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 0.49,
+        "Time": "03:28",
+        "Date": "2023-12-26",
+        "OutdoorTemperature(\u00b0C)": 5.9,
+        "Season": "Fall"
+      }
+    ]
+  },
+  {
+    "HomeID": 195,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 1.74,
+        "Time": "17:15",
+        "Date": "2023-08-11",
+        "OutdoorTemperature(\u00b0C)": -0.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 4.54,
+        "Time": "12:14",
+        "Date": "2023-03-27",
+        "OutdoorTemperature(\u00b0C)": 33.0,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 4.23,
+        "Time": "16:34",
+        "Date": "2023-02-07",
+        "OutdoorTemperature(\u00b0C)": 7.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.94,
+        "Time": "03:49",
+        "Date": "2023-07-22",
+        "OutdoorTemperature(\u00b0C)": 6.9,
+        "Season": "Winter"
+      }
+    ]
+  },
+  {
+    "HomeID": 57,
+    "HouseholdSize": 2,
+    "Records": [
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 4.09,
+        "Time": "03:45",
+        "Date": "2023-01-26",
+        "OutdoorTemperature(\u00b0C)": 4.2,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 2.23,
+        "Time": "07:54",
+        "Date": "2023-11-10",
+        "OutdoorTemperature(\u00b0C)": -3.8,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 3.13,
+        "Time": "23:29",
+        "Date": "2023-01-21",
+        "OutdoorTemperature(\u00b0C)": 28.0,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 0.83,
+        "Time": "21:05",
+        "Date": "2023-12-29",
+        "OutdoorTemperature(\u00b0C)": 4.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 0.13,
+        "Time": "19:18",
+        "Date": "2023-06-03",
+        "OutdoorTemperature(\u00b0C)": 22.0,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 1.74,
+        "Time": "13:35",
+        "Date": "2023-06-18",
+        "OutdoorTemperature(\u00b0C)": 5.9,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 107,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 4.56,
+        "Time": "04:29",
+        "Date": "2023-11-01",
+        "OutdoorTemperature(\u00b0C)": 6.2,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.69,
+        "Time": "09:40",
+        "Date": "2023-04-14",
+        "OutdoorTemperature(\u00b0C)": 3.0,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 4.44,
+        "Time": "22:33",
+        "Date": "2023-09-04",
+        "OutdoorTemperature(\u00b0C)": 24.6,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 4.59,
+        "Time": "09:10",
+        "Date": "2023-03-17",
+        "OutdoorTemperature(\u00b0C)": 28.2,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 259,
+    "HouseholdSize": 2,
+    "Records": [
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 3.04,
+        "Time": "17:03",
+        "Date": "2023-11-11",
+        "OutdoorTemperature(\u00b0C)": -3.7,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 2.95,
+        "Time": "10:53",
+        "Date": "2023-02-09",
+        "OutdoorTemperature(\u00b0C)": 5.7,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 0.38,
+        "Time": "02:13",
+        "Date": "2023-05-25",
+        "OutdoorTemperature(\u00b0C)": 26.2,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 2.46,
+        "Time": "19:31",
+        "Date": "2023-09-17",
+        "OutdoorTemperature(\u00b0C)": -1.9,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 3.98,
+        "Time": "10:00",
+        "Date": "2023-11-26",
+        "OutdoorTemperature(\u00b0C)": 35.8,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 477,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 4.74,
+        "Time": "14:34",
+        "Date": "2023-01-05",
+        "OutdoorTemperature(\u00b0C)": 14.2,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 2.6,
+        "Time": "16:28",
+        "Date": "2023-04-12",
+        "OutdoorTemperature(\u00b0C)": 12.5,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 2.64,
+        "Time": "10:49",
+        "Date": "2023-07-18",
+        "OutdoorTemperature(\u00b0C)": 15.7,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 3.17,
+        "Time": "09:37",
+        "Date": "2023-06-29",
+        "OutdoorTemperature(\u00b0C)": 6.6,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 0.27,
+        "Time": "21:39",
+        "Date": "2023-04-20",
+        "OutdoorTemperature(\u00b0C)": 14.8,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 1.93,
+        "Time": "08:11",
+        "Date": "2023-07-01",
+        "OutdoorTemperature(\u00b0C)": 10.4,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 469,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 4.92,
+        "Time": "21:07",
+        "Date": "2023-06-05",
+        "OutdoorTemperature(\u00b0C)": -8.6,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 4.58,
+        "Time": "12:34",
+        "Date": "2023-04-04",
+        "OutdoorTemperature(\u00b0C)": 14.1,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 2.18,
+        "Time": "09:18",
+        "Date": "2023-11-30",
+        "OutdoorTemperature(\u00b0C)": 21.4,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.35,
+        "Time": "05:34",
+        "Date": "2023-06-12",
+        "OutdoorTemperature(\u00b0C)": -1.5,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 1.96,
+        "Time": "19:22",
+        "Date": "2023-07-01",
+        "OutdoorTemperature(\u00b0C)": 3.7,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 0.46,
+        "Time": "12:33",
+        "Date": "2023-07-30",
+        "OutdoorTemperature(\u00b0C)": 26.8,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 80,
+    "HouseholdSize": 5,
+    "Records": [
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 1.24,
+        "Time": "19:46",
+        "Date": "2023-05-08",
+        "OutdoorTemperature(\u00b0C)": 16.1,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 1.71,
+        "Time": "00:11",
+        "Date": "2023-02-18",
+        "OutdoorTemperature(\u00b0C)": -1.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 3.89,
+        "Time": "22:14",
+        "Date": "2023-10-20",
+        "OutdoorTemperature(\u00b0C)": 4.4,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 1.29,
+        "Time": "23:17",
+        "Date": "2023-03-17",
+        "OutdoorTemperature(\u00b0C)": 8.5,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 0.55,
+        "Time": "18:15",
+        "Date": "2023-08-28",
+        "OutdoorTemperature(\u00b0C)": 19.6,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 253,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 2.24,
+        "Time": "12:45",
+        "Date": "2023-02-26",
+        "OutdoorTemperature(\u00b0C)": 12.6,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 0.91,
+        "Time": "10:48",
+        "Date": "2023-09-14",
+        "OutdoorTemperature(\u00b0C)": 13.0,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 3.89,
+        "Time": "08:31",
+        "Date": "2023-08-10",
+        "OutdoorTemperature(\u00b0C)": 14.0,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 4.07,
+        "Time": "07:49",
+        "Date": "2023-10-22",
+        "OutdoorTemperature(\u00b0C)": 4.7,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 1.26,
+        "Time": "01:50",
+        "Date": "2023-06-18",
+        "OutdoorTemperature(\u00b0C)": 3.4,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 1.65,
+        "Time": "22:39",
+        "Date": "2023-04-26",
+        "OutdoorTemperature(\u00b0C)": 7.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 4.75,
+        "Time": "10:47",
+        "Date": "2023-09-16",
+        "OutdoorTemperature(\u00b0C)": 34.2,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 388,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 3.94,
+        "Time": "20:04",
+        "Date": "2023-09-26",
+        "OutdoorTemperature(\u00b0C)": 12.2,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 1.95,
+        "Time": "18:26",
+        "Date": "2023-05-08",
+        "OutdoorTemperature(\u00b0C)": -7.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 4.31,
+        "Time": "11:11",
+        "Date": "2023-04-10",
+        "OutdoorTemperature(\u00b0C)": 3.8,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 4.63,
+        "Time": "15:43",
+        "Date": "2023-06-23",
+        "OutdoorTemperature(\u00b0C)": 15.0,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 220,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 0.78,
+        "Time": "00:20",
+        "Date": "2023-07-11",
+        "OutdoorTemperature(\u00b0C)": -6.1,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 4.24,
+        "Time": "08:53",
+        "Date": "2023-06-14",
+        "OutdoorTemperature(\u00b0C)": -4.1,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 2.17,
+        "Time": "04:29",
+        "Date": "2023-02-24",
+        "OutdoorTemperature(\u00b0C)": 2.7,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 0.45,
+        "Time": "15:08",
+        "Date": "2023-02-01",
+        "OutdoorTemperature(\u00b0C)": 12.4,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 0.51,
+        "Time": "10:52",
+        "Date": "2023-01-07",
+        "OutdoorTemperature(\u00b0C)": 7.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 3.97,
+        "Time": "08:36",
+        "Date": "2023-12-10",
+        "OutdoorTemperature(\u00b0C)": 6.9,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 3.12,
+        "Time": "07:55",
+        "Date": "2023-03-09",
+        "OutdoorTemperature(\u00b0C)": 17.3,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 108,
+    "HouseholdSize": 1,
+    "Records": [
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 3.03,
+        "Time": "13:30",
+        "Date": "2023-04-13",
+        "OutdoorTemperature(\u00b0C)": 27.5,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 0.25,
+        "Time": "07:40",
+        "Date": "2023-08-22",
+        "OutdoorTemperature(\u00b0C)": 10.3,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 4.73,
+        "Time": "03:36",
+        "Date": "2023-02-03",
+        "OutdoorTemperature(\u00b0C)": 6.4,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 2.38,
+        "Time": "10:15",
+        "Date": "2023-10-19",
+        "OutdoorTemperature(\u00b0C)": 33.4,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 4.48,
+        "Time": "07:55",
+        "Date": "2023-09-07",
+        "OutdoorTemperature(\u00b0C)": 21.9,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 214,
+    "HouseholdSize": 5,
+    "Records": [
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 0.61,
+        "Time": "19:20",
+        "Date": "2023-06-07",
+        "OutdoorTemperature(\u00b0C)": -4.3,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 3.97,
+        "Time": "00:50",
+        "Date": "2023-09-28",
+        "OutdoorTemperature(\u00b0C)": 29.9,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 0.89,
+        "Time": "12:53",
+        "Date": "2023-07-19",
+        "OutdoorTemperature(\u00b0C)": -3.4,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 3.79,
+        "Time": "20:48",
+        "Date": "2023-06-11",
+        "OutdoorTemperature(\u00b0C)": -6.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.58,
+        "Time": "22:46",
+        "Date": "2023-06-21",
+        "OutdoorTemperature(\u00b0C)": -5.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 3.99,
+        "Time": "00:44",
+        "Date": "2023-02-18",
+        "OutdoorTemperature(\u00b0C)": 5.6,
+        "Season": "Winter"
+      }
+    ]
+  },
+  {
+    "HomeID": 8,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 2.82,
+        "Time": "03:30",
+        "Date": "2023-01-07",
+        "OutdoorTemperature(\u00b0C)": 3.2,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 4.72,
+        "Time": "13:02",
+        "Date": "2023-08-16",
+        "OutdoorTemperature(\u00b0C)": 9.5,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 1.2,
+        "Time": "03:29",
+        "Date": "2023-05-06",
+        "OutdoorTemperature(\u00b0C)": 19.6,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 3.46,
+        "Time": "13:16",
+        "Date": "2023-03-08",
+        "OutdoorTemperature(\u00b0C)": 21.4,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 0.91,
+        "Time": "04:21",
+        "Date": "2023-11-10",
+        "OutdoorTemperature(\u00b0C)": 38.0,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 1.34,
+        "Time": "20:30",
+        "Date": "2023-11-06",
+        "OutdoorTemperature(\u00b0C)": 24.6,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 4.04,
+        "Time": "07:19",
+        "Date": "2023-05-19",
+        "OutdoorTemperature(\u00b0C)": 14.4,
+        "Season": "Fall"
+      }
+    ]
+  },
+  {
+    "HomeID": 456,
+    "HouseholdSize": 4,
+    "Records": [
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 4.14,
+        "Time": "12:10",
+        "Date": "2023-06-05",
+        "OutdoorTemperature(\u00b0C)": -4.5,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 1.13,
+        "Time": "15:04",
+        "Date": "2023-08-24",
+        "OutdoorTemperature(\u00b0C)": -6.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 3.15,
+        "Time": "00:35",
+        "Date": "2023-12-31",
+        "OutdoorTemperature(\u00b0C)": 23.3,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 2.14,
+        "Time": "22:28",
+        "Date": "2023-02-17",
+        "OutdoorTemperature(\u00b0C)": 19.0,
+        "Season": "Spring"
+      }
+    ]
+  },
+  {
+    "HomeID": 294,
+    "HouseholdSize": 3,
+    "Records": [
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 0.16,
+        "Time": "01:29",
+        "Date": "2023-01-19",
+        "OutdoorTemperature(\u00b0C)": 10.6,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 1.91,
+        "Time": "13:01",
+        "Date": "2023-12-19",
+        "OutdoorTemperature(\u00b0C)": 9.7,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 3.88,
+        "Time": "19:54",
+        "Date": "2023-04-30",
+        "OutdoorTemperature(\u00b0C)": -3.1,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 2.46,
+        "Time": "20:15",
+        "Date": "2023-04-11",
+        "OutdoorTemperature(\u00b0C)": -3.8,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 4.01,
+        "Time": "02:21",
+        "Date": "2023-06-28",
+        "OutdoorTemperature(\u00b0C)": 11.1,
+        "Season": "Fall"
+      }
+    ]
+  },
+  {
+    "HomeID": 450,
+    "HouseholdSize": 5,
+    "Records": [
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 2.42,
+        "Time": "04:26",
+        "Date": "2023-08-07",
+        "OutdoorTemperature(\u00b0C)": -1.4,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 2.52,
+        "Time": "21:08",
+        "Date": "2023-07-17",
+        "OutdoorTemperature(\u00b0C)": 23.9,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 1.53,
+        "Time": "18:47",
+        "Date": "2023-08-07",
+        "OutdoorTemperature(\u00b0C)": 1.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 3.37,
+        "Time": "13:59",
+        "Date": "2023-07-23",
+        "OutdoorTemperature(\u00b0C)": -7.0,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 4.32,
+        "Time": "21:05",
+        "Date": "2023-04-29",
+        "OutdoorTemperature(\u00b0C)": 15.5,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 3.86,
+        "Time": "03:56",
+        "Date": "2023-10-09",
+        "OutdoorTemperature(\u00b0C)": -4.2,
+        "Season": "Fall"
+      }
+    ]
+  },
+  {
+    "HomeID": 295,
+    "HouseholdSize": 2,
+    "Records": [
+      {
+        "ApplianceType": "Air Conditioning",
+        "EnergyConsumption(kWh)": 3.39,
+        "Time": "19:14",
+        "Date": "2023-05-25",
+        "OutdoorTemperature(\u00b0C)": -7.8,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 0.53,
+        "Time": "03:53",
+        "Date": "2023-07-19",
+        "OutdoorTemperature(\u00b0C)": -2.5,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Oven",
+        "EnergyConsumption(kWh)": 3.17,
+        "Time": "12:13",
+        "Date": "2023-06-23",
+        "OutdoorTemperature(\u00b0C)": -3.3,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 1.01,
+        "Time": "04:05",
+        "Date": "2023-01-09",
+        "OutdoorTemperature(\u00b0C)": 6.7,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 1.78,
+        "Time": "01:14",
+        "Date": "2023-01-30",
+        "OutdoorTemperature(\u00b0C)": -3.9,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 1.44,
+        "Time": "23:33",
+        "Date": "2023-06-05",
+        "OutdoorTemperature(\u00b0C)": 20.6,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 4.93,
+        "Time": "16:07",
+        "Date": "2023-09-11",
+        "OutdoorTemperature(\u00b0C)": 0.6,
+        "Season": "Winter"
+      }
+    ]
+  },
+  {
+    "HomeID": 153,
+    "HouseholdSize": 2,
+    "Records": [
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 4.95,
+        "Time": "10:33",
+        "Date": "2023-08-13",
+        "OutdoorTemperature(\u00b0C)": 31.9,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Dishwasher",
+        "EnergyConsumption(kWh)": 3.31,
+        "Time": "19:37",
+        "Date": "2023-01-31",
+        "OutdoorTemperature(\u00b0C)": -1.1,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 2.52,
+        "Time": "03:02",
+        "Date": "2023-06-05",
+        "OutdoorTemperature(\u00b0C)": 10.1,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 1.5,
+        "Time": "19:11",
+        "Date": "2023-08-23",
+        "OutdoorTemperature(\u00b0C)": 8.7,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 1.86,
+        "Time": "09:00",
+        "Date": "2023-01-25",
+        "OutdoorTemperature(\u00b0C)": -8.8,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 3.46,
+        "Time": "03:52",
+        "Date": "2023-12-25",
+        "OutdoorTemperature(\u00b0C)": 2.6,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 0.87,
+        "Time": "04:25",
+        "Date": "2023-08-01",
+        "OutdoorTemperature(\u00b0C)": 40.0,
+        "Season": "Summer"
+      }
+    ]
+  },
+  {
+    "HomeID": 224,
+    "HouseholdSize": 5,
+    "Records": [
+      {
+        "ApplianceType": "Lights",
+        "EnergyConsumption(kWh)": 3.48,
+        "Time": "21:27",
+        "Date": "2023-07-06",
+        "OutdoorTemperature(\u00b0C)": 8.7,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Computer",
+        "EnergyConsumption(kWh)": 2.18,
+        "Time": "12:12",
+        "Date": "2023-07-17",
+        "OutdoorTemperature(\u00b0C)": -2.6,
+        "Season": "Winter"
+      },
+      {
+        "ApplianceType": "TV",
+        "EnergyConsumption(kWh)": 3.37,
+        "Time": "08:05",
+        "Date": "2023-02-02",
+        "OutdoorTemperature(\u00b0C)": 7.7,
+        "Season": "Fall"
+      },
+      {
+        "ApplianceType": "Washing Machine",
+        "EnergyConsumption(kWh)": 2.85,
+        "Time": "11:09",
+        "Date": "2023-01-22",
+        "OutdoorTemperature(\u00b0C)": 30.6,
+        "Season": "Summer"
+      },
+      {
+        "ApplianceType": "Fridge",
+        "EnergyConsumption(kWh)": 2.81,
+        "Time": "02:33",
+        "Date": "2023-03-06",
+        "OutdoorTemperature(\u00b0C)": 14.1,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Microwave",
+        "EnergyConsumption(kWh)": 3.93,
+        "Time": "09:46",
+        "Date": "2023-11-17",
+        "OutdoorTemperature(\u00b0C)": 23.4,
+        "Season": "Spring"
+      },
+      {
+        "ApplianceType": "Heater",
+        "EnergyConsumption(kWh)": 0.49,
+        "Time": "05:21",
+        "Date": "2023-03-12",
+        "OutdoorTemperature(\u00b0C)": 34.0,
+        "Season": "Summer"
+      }
+    ]
+  }
+]
