@@ -40,24 +40,7 @@ Clean and responsive UI
 
 Modular React components
 
-🧱 Project Structure
-Smart-Home-Energy-Advisor/
-│
-├── public/
-│   ├── index.html
-│   ├── favicon.ico
-│   └── manifest.json
-│
-├── src/
-│   ├── assets/              # Images, sample data, etc.
-│   ├── components/          # Reusable React components
-│   ├── App.js               # Main App component
-│   ├── App.css
-│   ├── index.js             # Entry point
-│   └── index.css
-│
-├── package.json
-└── README.md
++<img width="632" height="460" alt="image" src="https://github.com/user-attachments/assets/a7bebf9f-665f-43ff-888b-f0b7d845459d" />
 
 🛠️ Tech Stack
 
